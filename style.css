@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
 
 body {
-    background-image: url('https://i.pinimg.com/736x/97/1e/8b/971e8b7cbc3936c0fa41f6a5299e746b.jpg');
+    background-image: url('/IMG_5605.jpeg') ;
     font-family: "Madimi One", sans-serif;
     margin: 0;
     padding: 20px;
@@ -15,14 +15,14 @@ header {
 }
 
 h1 {
-    color: #ffc9ed;
-    background-color: rgba(244, 152, 230, 0.998);
+    color: #ff0099;
+    background-color: #ffc9ed;
     font-size: 48px;
     text-shadow: 2px 2px #fff;
 }
 
 h2 {
-    color: #f0b2f7;
+    color: #ff0099;
     border-bottom: 2px dashed #ff0099;
     padding-bottom: 5px;
 }
@@ -72,3 +72,4 @@ p {
     color: #333;
     line-height: 1.6;
 }
+
