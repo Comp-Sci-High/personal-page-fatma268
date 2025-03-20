@@ -27,6 +27,12 @@ h2 {
     padding-bottom: 5px;
 }
 
+h3 {
+    color: #ff0099;
+    border-bottom: 2px dashed #ff0099;
+    padding-bottom: 5px;
+}
+
 .profile-pic {
     border-radius: 50%;
     border: 5px solid #ff0099;
@@ -68,8 +74,39 @@ ul {
     object-fit: cover;
 }
 
+.senegal-item {
+    text-align: center;
+}
+
+.senegal-item img {
+   
+    border-radius: 10px;
+    border: 3px solid #ff0099;
+    width: 200px;
+    height: 200px; 
+    object-fit: cover;
+}
+
 p {
     color: #333;
     line-height: 1.6;
+}
+
+.fun-fact-box{
+    background-color: #ffecb3;
+    border-left: 5px solid #ff9af0;
+    padding:20px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 10px;
+}
+
+.fun-fact-box2{
+    background-color: #f0b4ff;
+    border-left: 5px solid #a536f4;
+    padding:20px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    border-radius: 10px;
 }
 
